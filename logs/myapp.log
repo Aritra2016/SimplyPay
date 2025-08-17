@@ -1,1 +1,8 @@
 2025-08-17T10:52:56.900+05:30  WARN 17156 --- [SimplyPay] [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11h53m11s110ms993µs200ns).
+2025-08-17T11:08:52.126+05:30  WARN 17156 --- [SimplyPay] [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m53s729ms191µs900ns).
+2025-08-17T11:20:51.810+05:30  WARN 17156 --- [SimplyPay] [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m28s515ms151µs400ns).
+2025-08-17T11:45:24.129+05:30  INFO 17156 --- [SimplyPay] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-17T11:45:24.180+05:30  INFO 17156 --- [SimplyPay] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-08-17T11:45:24.223+05:30  INFO 17156 --- [SimplyPay] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-17T11:45:24.300+05:30  INFO 17156 --- [SimplyPay] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-17T11:45:24.317+05:30  INFO 17156 --- [SimplyPay] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
